@@ -1,0 +1,45 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+main
+a.out
+
+# Build folders
+build/
+bin/
+obj/
+dist/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Debug files
+*.dSYM/
+*.pdb
+
+# Input/output test files
+input.txt
+output.txt
+*.in
+*.out
+
+# Logs
+*.log
